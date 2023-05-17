@@ -5,6 +5,7 @@ Aluna: Larissa Rodrigues de Sá
 
 Vídeo assistido: https://www.youtube.com/watch?v=J_ggKtFx4ss&list=PL1JkuXNrkXKxStSWViruaaKWXnl0V7H7I&index=11
 Forjando o caminho para o exascale.
+
 Palestra que tem como tema a computação de alto desempenho. 
 O palestrante inicia falando um pouco sobre a empresa Atos. Ela possui 3 pilares: computação de alto desempenho com eficiência, tendo como objetivo a preservação ambiental, inteligência artificial e computação quântica. Possui atuação bastante forte no Brasil, trabalha em parceria com a Petrobrás. Há diferença entre o potencial teórico e prático. O teórico é caso se conseguisse fazer com que o problema utilizasse todo os circuitos internos do processador e o prático é resolver problema usando esse tipo de circuito. A relação entre o teórico e o prático dá a eficiência de um sistema computacional.
 
